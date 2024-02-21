@@ -3,7 +3,7 @@
 <!--
 **Sharon-bochere/Sharon-bochere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on .a desigh..
 - 🌱 I’m currently learning .on digital skills..
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 0704159068...
 - 😄 Pronouns: ...her
 - ⚡ Fun fact: ..drawing.
--->
+
